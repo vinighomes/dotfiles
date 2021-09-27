@@ -163,6 +163,8 @@ myKeys conf@(XConfig {XMonad.modMask = modm}) = M.fromList $
     --scrot vinighomes-screenshot$wx$h.jpg -e mv $f $$(xdg-user-dir PICTURES)
     --fechar janela clicando com o mouse
     --, ((modm, xK_Escape), spawn $ "xkill" )
+    -- lockscreen
+    , ((modm .|. shiftMask, xK_l ), spawn "dm-tool switch-to-greeter")
 
     -- launch rofi
     , ((modm,               xK_p     ), spawn "~/.config/rofi/bin/launcher_colorful")
