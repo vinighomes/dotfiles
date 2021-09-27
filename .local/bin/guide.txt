@@ -1,1 +1,4 @@
-Copie todos os arquivos deste diretório para a pasta: "/usr/local/bin" como sudo.
+###Não Copie o Pacman.sh, pode dar problemas
+###Copie o pacman.sh para a pasta .local/share
+
+Copie todos os arquivos deste diretório para a pasta: "/usr/local/bin"como sudo.
