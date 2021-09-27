@@ -115,6 +115,8 @@ myBorderWidth   = 1
 myModMask       = mod4Mask
 myBrowser       = "chromium"
 myCalc          = "kcalc"
+myManager       = "nautilus"
+
 -- The default number of workspaces (virtual screens) and their names.
 -- By default we use numeric strings, but any string may be used as a
 -- workspace name. The number of workspaces is determined by the length
@@ -125,7 +127,7 @@ myCalc          = "kcalc"
 -- > workspaces = ["web", "irc", "code" ] ++ map show [4..9]
 --
 --myWorkspaces    = ["1","2","3","4","5","6","7","8","9"]
-myWorkspaces = [" www ", " dev ", " sys ", " doc ", " win ", " chat ", " mus ", " vid ", " vbox ",]
+myWorkspaces = [" www ", " dev ", " sys ", " doc ", " win ", " chat ", " mus ", " vid ", " vbox "]
 --myWorkspaces = ["\61612","\61899","\61947","\61635","\61502","\61501","\61705","\61564","\62150","\61872"]
  
 
@@ -181,8 +183,10 @@ myKeys conf@(XConfig {XMonad.modMask = modm}) = M.fromList $
     , ((modm .|. shiftMask, xK_space ), setLayout $ XMonad.layoutHook conf)
 
     -- Resize viewed windows to the correct size
-    , ((modm,               xK_n     ), refresh)
-
+    , ((modm .|. shiftMask, xK_n ), refresh)
+    
+    -- Abre o explorador de arquivos
+    , ((modm,               xK_n ), spawn myManager) 
     -- Move focus to the next window
     --, ((modm,               xK_Tab   ), windows W.focusDown)
     --Focus selected desktop
