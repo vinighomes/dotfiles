@@ -1,0 +1,6 @@
+2021/09/27-09:36:07.545 32ff0 Creating DB /home/vinicius/.config/chromium/Default/IndexedDB/https_emojipedia.org_0.indexeddb.leveldb since it was missing.
+2021/09/27-09:36:07.605 32ff0 Reusing MANIFEST /home/vinicius/.config/chromium/Default/IndexedDB/https_emojipedia.org_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/27-09:36:11.265 32ff0 Level-0 table #5: started
+2021/09/27-09:36:11.315 32ff0 Level-0 table #5: 379 bytes OK
+2021/09/27-09:36:11.389 32ff0 Delete type=0 #3
+2021/09/27-09:36:11.389 32ff0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

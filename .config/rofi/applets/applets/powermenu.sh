@@ -32,7 +32,7 @@ confirm_exit() {
 
 # Message
 msg() {
-	rofi -theme "$HOME/.config/rofi/applets/styles/message.rasi" -e "Available Options  -  yes / y / no / n"
+	rofi -theme "$HOME/.config/rofi/applets/styles/message.rasi" -e "Opções Disponíveis - yes / y / no / n"
 }
 
 # Variable passed to rofi
@@ -61,8 +61,8 @@ case $chosen in
         fi
         ;;
     $lock)
-		if [[ -f /usr/bin/i3lock ]]; then
-			i3lock
+		if [[ -f /usr/bin/dm-tool ]]; then
+			dm-tool switch-to-greeter
 		elif [[ -f /usr/bin/betterlockscreen ]]; then
 			betterlockscreen -l
                 fi
@@ -75,15 +75,15 @@ case $chosen in
 			systemctl suspend
 		elif [[ $ans == "no" || $ans == "NO" || $ans == "n" || $ans == "N" ]]; then
 			exit 0
-        else
+                      else
 			msg
         fi
         ;;
     $logout)
 		ans=$(confirm_exit &)
 		if [[ $ans == "yes" || $ans == "YES" || $ans == "y" || $ans == "Y" ]]; then
-			if [[ "$DESKTOP_SESSION" == "Openbox" ]]; then
-				openbox --exit
+			if [[ "$DESKTOP_SESSION" == "xmonad" ]]; then
+				pkill -u $USER
 			elif [[ "$DESKTOP_SESSION" == "bspwm" ]]; then
 				bspc quit
 			elif [[ "$DESKTOP_SESSION" == "i3" ]]; then

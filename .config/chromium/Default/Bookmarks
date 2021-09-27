@@ -1,5 +1,5 @@
 {
-   "checksum": "98f2b8f9e6770803c647ce80b7760f95",
+   "checksum": "6a6ba60fa3a07e2836fc293928e2bcf6",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -93,9 +93,16 @@
             "name": "Wallpaperflare - Beautiful HD wallpapers free download",
             "type": "url",
             "url": "https://www.wallpaperflare.com/"
+         }, {
+            "date_added": "13277230009067115",
+            "guid": "47027857-df37-4b82-bb2d-cf7592965eb1",
+            "id": "29",
+            "name": "XMonad/xmobar dotfiles",
+            "type": "url",
+            "url": "https://gist.github.com/mrak/f6395ea134e3efd387a0"
          } ],
          "date_added": "13276213370710475",
-         "date_modified": "13277172314675527",
+         "date_modified": "13277230009067115",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Barra de favoritos",
