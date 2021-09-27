@@ -1,0 +1,955 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/vinicius/V%C3%ADdeos/IMG_9676.MP4" added="2021-08-30T11:07:04.769220Z" modified="2021-08-30T11:07:04.769238Z" visited="2021-08-30T11:07:04.769224Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="opera" exec="&apos;opera %u&apos;" modified="2021-08-30T11:07:04.769231Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/%C3%81rea%20de%20trabalho/pills/07.txt" added="2021-08-30T20:59:25.692724Z" modified="2021-08-30T20:59:25.720852Z" visited="2021-08-30T20:59:25.692725Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-08-30T20:59:25.720848Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/.vim/.ycm_extra_conf.py" added="2021-08-30T23:17:03.598343Z" modified="2021-08-30T23:17:03.598350Z" visited="2021-08-30T23:17:03.598344Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="opera" exec="&apos;opera %u&apos;" modified="2021-08-30T23:17:03.598347Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Downloads/KanadaCursors.tar.gz" added="2021-09-01T10:48:40.398419Z" modified="2021-09-01T10:48:40.398425Z" visited="2021-09-01T10:48:40.398421Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="opera" exec="&apos;opera %u&apos;" modified="2021-09-01T10:48:40.398422Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Downloads/nvim-linux64.tar.gz" added="2021-09-01T20:15:26.326752Z" modified="2021-09-01T20:15:26.326759Z" visited="2021-09-01T20:15:26.326753Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="opera" exec="&apos;opera %u&apos;" modified="2021-09-01T20:15:26.326756Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Downloads/nvim.appimage" added="2021-09-01T20:16:41.242632Z" modified="2021-09-01T20:16:41.242641Z" visited="2021-09-01T20:16:41.242633Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.appimage"/>
+        <bookmark:applications>
+          <bookmark:application name="opera" exec="&apos;opera %u&apos;" modified="2021-09-01T20:16:41.242637Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/nvim-linux64.tar.gz" added="2021-09-01T20:18:15.050545Z" modified="2021-09-01T20:18:15.050551Z" visited="2021-09-01T20:18:15.050546Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="opera" exec="&apos;opera %u&apos;" modified="2021-09-01T20:18:15.050548Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/M%C3%BAsica/music-to-put-you-in-a-better-mood-lofi-relax-stress-relief.mp3" added="2021-09-02T21:44:46.076812Z" modified="2021-09-02T21:44:46.076819Z" visited="2021-09-02T21:44:46.076814Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="opera" exec="&apos;opera %u&apos;" modified="2021-09-02T21:44:46.076816Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Downloads/JetBrainsMono.zip" added="2021-09-02T23:42:21.084419Z" modified="2021-09-02T23:42:21.084425Z" visited="2021-09-02T23:42:21.084420Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="opera" exec="&apos;opera %u&apos;" modified="2021-09-02T23:42:21.084422Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Downloads/slackware64-14.2-install-dvd.torrent" added="2021-09-06T22:01:05.371492Z" modified="2021-09-06T22:01:05.371499Z" visited="2021-09-06T22:01:05.371493Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bittorrent"/>
+        <bookmark:applications>
+          <bookmark:application name="opera" exec="&apos;opera %u&apos;" modified="2021-09-06T22:01:05.371495Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Downloads/config%20xmonad/.xmobarrc" added="2021-09-06T23:35:08.765218Z" modified="2021-09-06T23:35:08.765225Z" visited="2021-09-06T23:35:08.765219Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-09-06T23:35:08.765222Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Downloads/lubuntu-20.04.3-desktop-amd64.iso" added="2021-09-07T00:00:19.684586Z" modified="2021-09-07T00:00:19.684596Z" visited="2021-09-07T00:00:19.684588Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="opera" exec="&apos;opera %u&apos;" modified="2021-09-07T00:00:19.684591Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/2334886.jpg" added="2021-09-07T00:11:34.052510Z" modified="2021-09-07T00:11:34.052520Z" visited="2021-09-07T00:11:34.052512Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-07T00:11:34.052516Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/linksweb.txt" added="2021-09-07T00:55:37.925012Z" modified="2021-09-07T00:55:37.925019Z" visited="2021-09-07T00:55:37.925014Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-09-07T00:55:37.925016Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Downloads/archlinux-2021.09.01-x86_64.iso.torrent" added="2021-09-07T20:17:05.080090Z" modified="2021-09-07T20:17:05.080101Z" visited="2021-09-07T20:17:05.080093Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bittorrent"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-07T20:17:05.080096Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Downloads/WTFTW.jpe" added="2021-09-07T21:14:26.199490Z" modified="2021-09-20T11:15:39.661958Z" visited="2021-09-07T21:14:26.199493Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-07T21:14:26.199499Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/chromium %U&apos;" modified="2021-09-20T11:15:39.661953Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/5577aeea79e48ff188122fd3f62e6937.jpg" added="2021-09-09T19:31:23.344646Z" modified="2021-09-09T19:31:45.044109Z" visited="2021-09-09T19:31:23.344647Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-09T19:31:45.044106Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/archinstall/wallpapers/x=1" added="2021-09-10T20:58:31.339201Z" modified="2021-09-10T20:58:31.339208Z" visited="2021-09-10T20:58:31.339202Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-09-10T20:58:31.339205Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/archinstall/wallpapers/01.bat" added="2021-09-10T20:59:44.913846Z" modified="2021-09-10T20:59:44.913853Z" visited="2021-09-10T20:59:44.913847Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-09-10T20:59:44.913850Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/fonts/files/i3/config" added="2021-09-13T20:00:06.863883Z" modified="2021-09-13T20:00:06.863889Z" visited="2021-09-13T20:00:06.863884Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-09-13T20:00:06.863887Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/fonts/files/powerline.config" added="2021-09-13T20:00:20.811763Z" modified="2021-09-13T20:00:20.811769Z" visited="2021-09-13T20:00:20.811764Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-09-13T20:00:20.811767Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/fonts/files/chars.txt" added="2021-09-13T20:00:29.877634Z" modified="2021-09-13T20:00:29.877640Z" visited="2021-09-13T20:00:29.877635Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-09-13T20:00:29.877637Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/fonts/README.md" added="2021-09-13T20:00:48.342937Z" modified="2021-09-13T20:00:48.342943Z" visited="2021-09-13T20:00:48.342938Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-markdown"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-09-13T20:00:48.342941Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/archinstall/wallpapers/wp4534368.webp" added="2021-09-13T20:35:10.325181Z" modified="2021-09-13T21:09:33.352187Z" visited="2021-09-13T20:35:10.325182Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/webp"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-13T21:09:33.352185Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/archinstall/wallpapers/wallpapersden.com_akatsuki-organization-anime_2560x1080.jpg" added="2021-09-13T20:35:29.637883Z" modified="2021-09-13T20:35:29.637893Z" visited="2021-09-13T20:35:29.637886Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-13T20:35:29.637889Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/archinstall/wallpapers/anime-cityscape-landscape-scenery-4k_1541975011.jpg" added="2021-09-13T20:35:56.381639Z" modified="2021-09-13T20:35:56.381651Z" visited="2021-09-13T20:35:56.381643Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-13T20:35:56.381647Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/archinstall/wallpapers/de4b56a4bda05c5594aa5d8f2baeaa41.jpg" added="2021-09-13T20:36:13.541083Z" modified="2021-09-13T20:36:13.541090Z" visited="2021-09-13T20:36:13.541084Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-13T20:36:13.541087Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/archinstall/wallpapers/wp5237302.webp" added="2021-09-13T20:36:51.629250Z" modified="2021-09-13T21:09:33.352167Z" visited="2021-09-13T20:36:51.629252Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/webp"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-13T21:09:33.352161Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/archinstall/wallpapers/wp5237302.jpg" added="2021-09-13T21:09:58.096991Z" modified="2021-09-13T21:09:58.097000Z" visited="2021-09-13T21:09:58.096993Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-13T21:09:58.096996Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/archinstall/wallpapers/wp4534368.jpg" added="2021-09-13T21:10:07.602920Z" modified="2021-09-13T21:10:07.602933Z" visited="2021-09-13T21:10:07.602924Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-13T21:10:07.602927Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Downloads/tenha-um-dia-lindo-e-abencoado-por-deus-e-nao-se-esqueca-de-agrad-kBDGd-cxl.jpg" added="2021-09-14T12:57:16.369996Z" modified="2021-09-14T12:57:29.321781Z" visited="2021-09-14T12:57:16.369997Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-14T12:57:29.321777Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/archinstall/wallpapers/vinighomes-wall-001.jpg" added="2021-09-15T18:52:53.186027Z" modified="2021-09-15T18:52:53.186037Z" visited="2021-09-15T18:52:53.186028Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-15T18:52:53.186032Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Downloads/personalizando%20o%20ksh.md" added="2021-09-16T17:59:48.679945Z" modified="2021-09-16T17:59:48.679952Z" visited="2021-09-16T17:59:48.679947Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-16T17:59:48.679949Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/M%C3%BAsica/12-hours-relaxing-sleep-music-meditation-music-stress-relief-music-study-music-sounds-of-rain.mp3" added="2021-09-17T00:57:30.320948Z" modified="2021-09-17T00:57:30.320964Z" visited="2021-09-17T00:57:30.320953Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-17T00:57:30.320956Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Documentos/linksweb.txt" added="2021-09-20T11:15:48.563651Z" modified="2021-09-20T11:15:49.345880Z" visited="2021-09-20T11:15:48.563654Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;geany %F&apos;" modified="2021-09-20T11:15:48.563660Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-09-20T11:15:49.345877Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/.config/autostart1.sh" added="2021-09-20T14:31:25.382435Z" modified="2021-09-20T14:31:25.382442Z" visited="2021-09-20T14:31:25.382436Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-09-20T14:31:25.382438Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/.config" added="2021-09-20T14:31:47.752983Z" modified="2021-09-20T14:31:47.752988Z" visited="2021-09-20T14:31:47.752984Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-09-20T14:31:47.752985Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/%C3%81rea%20de%20trabalho/vscode" added="2021-09-20T18:34:30.048216Z" modified="2021-09-20T18:34:30.048222Z" visited="2021-09-20T18:34:30.048218Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-09-20T18:34:30.048220Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/.xmonad" added="2021-09-20T21:37:58.512420Z" modified="2021-09-20T21:37:58.512427Z" visited="2021-09-20T21:37:58.512421Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-09-20T21:37:58.512422Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/%C3%81rea%20de%20trabalho/MyPersonalConfig" added="2021-09-20T23:01:12.345494Z" modified="2021-09-20T23:01:12.345500Z" visited="2021-09-20T23:01:12.345495Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-09-20T23:01:12.345497Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/%C3%81rea%20de%20trabalho/project0/0" added="2021-09-21T00:33:10.290340Z" modified="2021-09-21T00:33:10.290345Z" visited="2021-09-21T00:33:10.290341Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-09-21T00:33:10.290342Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Downloads/AVALIA%C3%87%C3%83O%20DE%20L%C3%8DNGUA%20PORTUGUESA.docx" added="2021-09-21T13:55:20.518468Z" modified="2021-09-21T14:17:28.562883Z" visited="2021-09-21T13:55:20.518469Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-21T13:55:20.518472Z" count="1"/>
+          <bookmark:application name="LibreOffice 7.2" exec="&apos;soffice %u&apos;" modified="2021-09-21T14:17:28.562882Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/vinighomes-15-09-2021-1631721907_screenshot_1600x900.jpg" added="2021-09-21T17:29:55.137619Z" modified="2021-09-21T17:29:55.137625Z" visited="2021-09-21T17:29:55.137620Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-21T17:29:55.137622Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/vinighomes-21-09-2021-1632245364_screenshot_1600x900.jpg" added="2021-09-21T17:30:07.007357Z" modified="2021-09-21T17:30:07.007365Z" visited="2021-09-21T17:30:07.007358Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-21T17:30:07.007361Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Downloads/xmonadprj/xmonad.hs" added="2021-09-22T00:00:31.493293Z" modified="2021-09-22T00:00:31.493299Z" visited="2021-09-22T00:00:31.493295Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-haskell"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-22T00:00:31.493296Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Downloads/xmonadprj/xmobar" added="2021-09-22T00:00:58.237725Z" modified="2021-09-22T00:00:58.237733Z" visited="2021-09-22T00:00:58.237726Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-22T00:00:58.237729Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/.xmonad/xpm/haskell_20.xpm" added="2021-09-22T00:17:32.835907Z" modified="2021-09-22T00:17:32.835913Z" visited="2021-09-22T00:17:32.835908Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/x-xpixmap"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-22T00:17:32.835911Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/Screenshot_2021-09-23-05_1600x900.png" added="2021-09-23T11:26:44.271740Z" modified="2021-09-23T11:27:01.302268Z" visited="2021-09-23T11:26:44.271742Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/chromium %U&apos;" modified="2021-09-23T11:27:01.302262Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/background.jpg" added="2021-09-23T16:53:34.382867Z" modified="2021-09-23T16:53:34.898238Z" visited="2021-09-23T16:53:34.382869Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Programa de manipulação de imagem do GNU" exec="&apos;gimp-2.10 %u&apos;" modified="2021-09-23T16:53:34.382871Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-09-23T16:53:34.898233Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Downloads/deus-cuida-de-ti-linda-mensagem-de-boa-noite-video-e-mensagem-para-whatsapp.mp4" added="2021-09-26T20:59:25.273774Z" modified="2021-09-26T21:00:30.314702Z" visited="2021-09-26T20:59:25.273776Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-26T21:00:30.314649Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/wallpapers/vinighomes-wall-042.jpg" added="2021-09-26T22:44:53.021262Z" modified="2021-09-26T22:44:53.021275Z" visited="2021-09-26T22:44:53.021265Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-26T22:44:53.021269Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/wallpapers/vinighomes-wall-043.jpg" added="2021-09-26T22:46:58.459376Z" modified="2021-09-26T23:22:30.265772Z" visited="2021-09-26T22:46:58.459379Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-26T23:22:30.265757Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;viewnior %F&apos;" modified="2021-09-26T23:04:49.984162Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/wallpapers/vinighomes-wall-044.jpg" added="2021-09-26T22:47:13.723346Z" modified="2021-09-26T22:47:13.723359Z" visited="2021-09-26T22:47:13.723350Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-26T22:47:13.723354Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/wallpapers/vinighomes-wall-045.jpg" added="2021-09-26T22:47:46.091367Z" modified="2021-09-26T22:47:46.091382Z" visited="2021-09-26T22:47:46.091371Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-26T22:47:46.091375Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/wallpapers/vinighomes-wall-046.jpg" added="2021-09-26T22:48:15.451412Z" modified="2021-09-27T00:13:39.619390Z" visited="2021-09-26T22:48:15.451415Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-27T00:13:39.619374Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/wallpapers/vinighomes-wall-047.jpg" added="2021-09-26T22:48:31.211378Z" modified="2021-09-26T22:48:31.211392Z" visited="2021-09-26T22:48:31.211382Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-26T22:48:31.211387Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/wallpapers/vinighomes-wall-048.jpg" added="2021-09-26T22:49:28.852252Z" modified="2021-09-26T22:49:28.852268Z" visited="2021-09-26T22:49:28.852256Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-26T22:49:28.852262Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/wallpapers/vinighomes-wall-049.jpg" added="2021-09-26T22:51:06.395542Z" modified="2021-09-26T22:51:06.395555Z" visited="2021-09-26T22:51:06.395545Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-26T22:51:06.395550Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/wallpapers/vinighomes-wall-050.jpg" added="2021-09-26T22:51:54.278993Z" modified="2021-09-26T22:51:54.279012Z" visited="2021-09-26T22:51:54.278998Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-26T22:51:54.279004Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/wallpapers/vinighomes-wall-051.jpg" added="2021-09-26T22:53:19.220794Z" modified="2021-09-26T22:53:19.220808Z" visited="2021-09-26T22:53:19.220797Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-26T22:53:19.220802Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/wallpapers/vinighomes-wall-052.jpg" added="2021-09-26T22:54:14.475556Z" modified="2021-09-26T22:54:14.475569Z" visited="2021-09-26T22:54:14.475559Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-26T22:54:14.475563Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/wallpapers/vinighomes-wall-053.jpg" added="2021-09-26T22:54:40.603451Z" modified="2021-09-26T22:54:40.603463Z" visited="2021-09-26T22:54:40.603454Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-26T22:54:40.603458Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/wallpapers/vinighomes-wall-054.jpg" added="2021-09-26T22:55:07.373606Z" modified="2021-09-26T22:55:07.373620Z" visited="2021-09-26T22:55:07.373610Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-26T22:55:07.373614Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/wallpapers/vinighomes-wall-055.jpg" added="2021-09-26T22:55:32.395625Z" modified="2021-09-26T22:55:32.395638Z" visited="2021-09-26T22:55:32.395628Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-26T22:55:32.395633Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/wallpapers/vinighomes-wall-056.jpg" added="2021-09-26T22:56:51.453195Z" modified="2021-09-26T22:56:51.453209Z" visited="2021-09-26T22:56:51.453198Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-26T22:56:51.453203Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/wallpapers/vinighomes-wall-057.jpg" added="2021-09-26T22:57:39.523797Z" modified="2021-09-26T22:58:31.797280Z" visited="2021-09-26T22:57:39.523800Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-26T22:58:31.797274Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/wallpapers/vinighomes-wall-058.jpg" added="2021-09-26T22:59:29.355533Z" modified="2021-09-26T22:59:29.355546Z" visited="2021-09-26T22:59:29.355536Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-26T22:59:29.355541Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/wallpapers/vinighomes-wall-059.jpg" added="2021-09-26T22:59:54.835640Z" modified="2021-09-26T22:59:54.835653Z" visited="2021-09-26T22:59:54.835643Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-26T22:59:54.835648Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/wallpapers/vinighomes-wall-060.jpg" added="2021-09-26T23:01:50.483564Z" modified="2021-09-26T23:01:50.483578Z" visited="2021-09-26T23:01:50.483567Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-26T23:01:50.483572Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/wallpapers/vinighomes-wall-061.jpg" added="2021-09-26T23:02:47.019364Z" modified="2021-09-26T23:02:47.019379Z" visited="2021-09-26T23:02:47.019368Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-26T23:02:47.019373Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/wallpapers/vinighomes-wall-062.jpg" added="2021-09-26T23:03:24.859628Z" modified="2021-09-26T23:03:24.859643Z" visited="2021-09-26T23:03:24.859632Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-26T23:03:24.859637Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/wallpapers/vinighomes-wall-063.jpg" added="2021-09-26T23:03:48.115513Z" modified="2021-09-26T23:03:48.115527Z" visited="2021-09-26T23:03:48.115517Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-26T23:03:48.115521Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/wallpapers/vinighomes-wall-064.jpg" added="2021-09-26T23:08:15.859656Z" modified="2021-09-26T23:38:47.472780Z" visited="2021-09-26T23:08:15.859659Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-26T23:38:47.472773Z" count="3"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;viewnior %F&apos;" modified="2021-09-26T23:08:33.324945Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/wallpapers/12a4604b-6e67-40ee-99ab-9cd712ead99c.jpg" added="2021-09-26T23:09:05.996698Z" modified="2021-09-26T23:09:05.996716Z" visited="2021-09-26T23:09:05.996704Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-26T23:09:05.996709Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/wallpapers/vinighomes-wall-011.jpg" added="2021-09-26T23:19:21.040354Z" modified="2021-09-26T23:19:21.040371Z" visited="2021-09-26T23:19:21.040358Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-26T23:19:21.040364Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/wallpapers/vinighomes-wall-009.jpg" added="2021-09-26T23:23:38.949665Z" modified="2021-09-26T23:23:38.949690Z" visited="2021-09-26T23:23:38.949672Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-26T23:23:38.949679Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/wallpapers/vinighomes-wall-005.jpg" added="2021-09-26T23:25:07.941517Z" modified="2021-09-26T23:25:07.941534Z" visited="2021-09-26T23:25:07.941521Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-26T23:25:07.941528Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/wallpapers/vinighomes-wall-016.jpg" added="2021-09-26T23:26:26.532946Z" modified="2021-09-26T23:26:26.532960Z" visited="2021-09-26T23:26:26.532949Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-26T23:26:26.532954Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/wallpapers/vinighomes-wall-020.jpg" added="2021-09-26T23:27:51.172746Z" modified="2021-09-26T23:27:51.172792Z" visited="2021-09-26T23:27:51.172778Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-26T23:27:51.172784Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/wallpapers/vinighomes-wall-015.jpg" added="2021-09-26T23:30:27.761559Z" modified="2021-09-26T23:30:27.761587Z" visited="2021-09-26T23:30:27.761567Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-26T23:30:27.761576Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/wallpapers/vinighomes-wall-018.jpg" added="2021-09-26T23:32:13.157130Z" modified="2021-09-26T23:32:13.157144Z" visited="2021-09-26T23:32:13.157133Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-26T23:32:13.157138Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/wallpapers/vinighomes-wall-001.jpg" added="2021-09-26T23:33:56.631506Z" modified="2021-09-26T23:33:56.631529Z" visited="2021-09-26T23:33:56.631511Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-26T23:33:56.631520Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/wallpapers/vinighomes-wall-065.jpg" added="2021-09-26T23:39:46.279207Z" modified="2021-09-26T23:39:46.279236Z" visited="2021-09-26T23:39:46.279211Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-26T23:39:46.279224Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/wallpapers/vinighomes-wall-066.jpg" added="2021-09-26T23:41:17.900842Z" modified="2021-09-26T23:41:17.900862Z" visited="2021-09-26T23:41:17.900846Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-26T23:41:17.900854Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/wallpapers/vinighomes-wall-067.jpg" added="2021-09-26T23:42:00.587709Z" modified="2021-09-26T23:42:00.587727Z" visited="2021-09-26T23:42:00.587713Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-26T23:42:00.587719Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/wallpapers/vinighomes-wall-068.jpg" added="2021-09-26T23:42:42.508058Z" modified="2021-09-26T23:42:42.508071Z" visited="2021-09-26T23:42:42.508061Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-26T23:42:42.508066Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/wallpapers/vinighomes-wall-069.jpg" added="2021-09-26T23:43:35.204393Z" modified="2021-09-26T23:43:35.204406Z" visited="2021-09-26T23:43:35.204396Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-26T23:43:35.204401Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/wallpapers/vinighomes-wall-019.jpg" added="2021-09-26T23:46:13.238875Z" modified="2021-09-26T23:46:13.238900Z" visited="2021-09-26T23:46:13.238879Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-26T23:46:13.238890Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/wallpapers/vinighomes-wall-034.jpg" added="2021-09-26T23:49:03.880444Z" modified="2021-09-26T23:49:03.880486Z" visited="2021-09-26T23:49:03.880448Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-26T23:49:03.880456Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/wallpapers/vinighomes-wall-035.jpg" added="2021-09-26T23:49:58.073425Z" modified="2021-09-26T23:49:58.073469Z" visited="2021-09-26T23:49:58.073432Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-26T23:49:58.073453Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vinicius/Imagens/wallpapers/vinighomes-wall-070.jpg" added="2021-09-26T23:51:01.124177Z" modified="2021-09-26T23:51:01.124191Z" visited="2021-09-26T23:51:01.124180Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-09-26T23:51:01.124185Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
