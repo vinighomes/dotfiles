@@ -1,0 +1,8 @@
+# GIMP gimp-crop-tool options
+
+(aspect-denominator 1600)
+(aspect-numerator 900)
+(overridden-fixed-aspect yes)
+(pattern "Pine")
+
+# end of gimp-crop-tool options

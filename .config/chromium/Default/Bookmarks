@@ -1,0 +1,124 @@
+{
+   "checksum": "98f2b8f9e6770803c647ce80b7760f95",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13276305274284992",
+            "guid": "a128a504-f43f-4f15-8750-4d627f122ad0",
+            "id": "8",
+            "name": "WhatsApp",
+            "type": "url",
+            "url": "https://web.whatsapp.com/"
+         }, {
+            "date_added": "13276282121210613",
+            "guid": "d81a70f7-ad9b-4725-821c-356666482ffb",
+            "id": "5",
+            "name": "12 Hours Relaxing Sleep Music 🎵 Meditation Music, Stress Relief Music, Study Music | Sounds of Rain - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=vqXNkEc-WaA"
+         }, {
+            "date_added": "13276290743729146",
+            "guid": "08e55daf-88bc-4923-a497-0eb641fcda83",
+            "id": "6",
+            "name": "https://emojipedia.org/search/?q=smile",
+            "type": "url",
+            "url": "https://emojipedia.org/search/?q=smile"
+         }, {
+            "date_added": "13276743663888140",
+            "guid": "b08b878a-f41e-4fce-bb5c-ec4529e93364",
+            "id": "14",
+            "name": "Esquemas de Cores Hex, Pesquisa de Pintura, Paletes &amp; Conversões",
+            "type": "url",
+            "url": "https://encycolorpedia.pt/"
+         }, {
+            "date_added": "13276722976170263",
+            "guid": "51d4f460-d717-4091-ab2c-fbf13d9ea619",
+            "id": "10",
+            "name": "Mini pen drive metálico personalizado, pen drive usb 2.0 de metal 4gb 8gb 16gb 32gb 64gb para presente, memória com capacidade real 100%|Pen drive USB| - AliExpress",
+            "type": "url",
+            "url": "https://pt.aliexpress.com/item/4000263968904.html?spm=a2g0o.productlist.0.0.715b187byZ7mz9&algo_pvid=0d2279fc-aad0-4b1a-9fe2-ba7b8096b0bb&algo_exp_id=0d2279fc-aad0-4b1a-9fe2-ba7b8096b0bb-1&pdp_ext_f=%7B%22sku_id%22%3A%2210000001069867159%22%7D"
+         }, {
+            "date_added": "13276723039138240",
+            "guid": "7998bfa0-3782-408f-aa7b-27eb19a9f0af",
+            "id": "11",
+            "name": "Pen driver usb 2.0 de metal, logotipo personalizado, pendrive preto, 4gb, 8gb, 16gb, 32gb, 64gb, 128gb de capacidade real|Pen drive USB| - AliExpress",
+            "type": "url",
+            "url": "https://pt.aliexpress.com/item/1005001667660219.html?spm=a2g0o.detail.1000060.2.f4621e0e2leM4U&gps-id=pcDetailBottomMoreThisSeller&scm=1007.13339.169870.0&scm_id=1007.13339.169870.0&scm-url=1007.13339.169870.0&pvid=d64de71b-8076-467e-96ca-da7516af8ef7&_t=gps-id:pcDetailBottomMoreThisSeller,scm-url:1007.13339.169870.0,pvid:d64de71b-8076-467e-96ca-da7516af8ef7,tpp_buckets:668%232846%238114%231999&&pdp_ext_f=%7B%22sceneId%22:%223339%22,%22sku_id%22:%2212000017203475558%22%7D"
+         }, {
+            "date_added": "13276723167834058",
+            "guid": "e6a1b2e2-6ef1-4867-8c7d-4e41a0646134",
+            "id": "12",
+            "name": "Usb 3.0 flash drive 64 gb 32 gb 16gb 32 gb 64 gb 128gb usb 3. Pen drive usb flash 0, melhor presente|Pen drive USB| - AliExpress",
+            "type": "url",
+            "url": "https://pt.aliexpress.com/item/4001191910568.html?spm=a2g0o.detail.1000014.8.4b3b244eGDkhlG&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.13338.183347.0&scm_id=1007.13338.183347.0&scm-url=1007.13338.183347.0&pvid=d8c1cc52-cdf1-4335-b0ab-d6bfe9c43e76&_t=gps-id:pcDetailBottomMoreOtherSeller,scm-url:1007.13338.183347.0,pvid:d8c1cc52-cdf1-4335-b0ab-d6bfe9c43e76,tpp_buckets:668%232846%238114%231999&&pdp_ext_f=%7B%22sceneId%22:%2223416%22,%22sku_id%22:%2210000015256425355%22%7D"
+         }, {
+            "date_added": "13276793917623919",
+            "guid": "64218aad-e419-49e8-a160-d50a87ad792d",
+            "id": "16",
+            "name": "xmobar - a minimalistic status bar",
+            "type": "url",
+            "url": "https://xmobar.org/#unsafestdinreader"
+         }, {
+            "date_added": "13276807505985046",
+            "guid": "bb847c67-424b-4c8a-8950-7773893b1802",
+            "id": "18",
+            "name": "Cheatsheet | Font Awesome",
+            "type": "url",
+            "url": "https://fontawesome.com/v5/cheatsheet/free/brands"
+         }, {
+            "date_added": "13276910710715196",
+            "guid": "d3cb7974-f3a1-4fba-bba2-bb7ca8242a16",
+            "id": "20",
+            "name": "My XMonad (xmobar : battery, cpu, memory, volume, time) - ArchLinux",
+            "type": "url",
+            "url": "https://gist.github.com/Dnomyar/9c289fcc2668b59e1ffb"
+         }, {
+            "date_added": "13276917282447172",
+            "guid": "199296ac-e543-4007-b9ae-3c0b8732cf56",
+            "id": "22",
+            "name": "xmobar - a minimalistic status bar",
+            "type": "url",
+            "url": "https://xmobar.org/"
+         }, {
+            "date_added": "13276964605961075",
+            "guid": "318aca8a-4259-48f2-93e6-262cc202e12d",
+            "id": "24",
+            "name": "Git Bare Repository - A Better Way To Manage Dotfiles - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=tBoLDpTWVOM"
+         }, {
+            "date_added": "13277172314675527",
+            "guid": "fd07fe95-ca24-4ced-9e86-4b47f1f36838",
+            "id": "26",
+            "name": "Wallpaperflare - Beautiful HD wallpapers free download",
+            "type": "url",
+            "url": "https://www.wallpaperflare.com/"
+         } ],
+         "date_added": "13276213370710475",
+         "date_modified": "13277172314675527",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13276213370710488",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Outros favoritos",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13276213370710492",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos nos dispositivos móveis",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

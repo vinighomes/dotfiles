@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/vinicius/.config/polybar/forest'
+let g:netrw_dirhist_6='/home/vinicius/.config/polybar'
+let g:netrw_dirhist_5='/home/vinicius/.config'
+let g:netrw_dirhist_4='/home/vinicius/.config/terminator'
+let g:netrw_dirhist_3='/home/vinicius/.moc'
+let g:netrw_dirhist_2='/home/vinicius/.mplayer'
+let g:netrw_dirhist_1='/home/vinicius/Área de trabalho/pills'
+let g:netrw_dirhist_0='/home/vinicius/.themes/flat-ico2'
+let g:netrw_dirhist_9='/home/vinicius/.themes'
+let g:netrw_dirhist_8='/home/vinicius/.vim/plugged/vim-snippets/snippets'

@@ -1,0 +1,129 @@
+12:29:08.184403 -0300 (0x00007f42de24fcc0) [info] [app_Gui] [BaseTranslator] Using locale pt_BR
+12:29:08.252739 -0300 (0x00007f42d5513640) [info] [http] [HttpDownloaderImpl_0x7f429c0013b0] Start http downloader http://sa.openmedia.co:8018/collect?v=1&tid=UA-22764310-2&cid=3b6c5cfe-425c-417d-9db3-d3d0f43c7e0a&t=event&an=4K%20Video%20Downloader&av=4.16.0.4250&ec=Application&ea=Run&el=Less%20than%2010&ev=3&z=26895
+12:29:08.253255 -0300 (0x00007f42d5513640) [info] [http] [HttpDownloaderImpl_0x7f429c00f960] Start http downloader http://sa.openmedia.co:8018/collect?v=1&tid=UA-22764310-2&cid=3b6c5cfe-425c-417d-9db3-d3d0f43c7e0a&t=event&an=4K%20Video%20Downloader&av=4.16.0.4250&ec=Application&ea=Platform&el=ubuntu-64--1.-1.-1&cprop=%7B%22platform%22%3A%22ubuntu-64%22%2C%22platform_version%22%3A%22-1.-1.-1%22%7D&z=-42553
+12:29:08.253476 -0300 (0x00007f42d5513640) [info] [http] [HttpDownloaderImpl_0x7f429c01c460] Start http downloader http://sa.openmedia.co:8018/collect?v=1&tid=UA-22764310-2&cid=3b6c5cfe-425c-417d-9db3-d3d0f43c7e0a&t=event&an=4K%20Video%20Downloader&av=4.16.0.4250&ec=Application&ea=Resolution&el=1599x899&z=12094
+12:29:08.253700 -0300 (0x00007f42d5513640) [info] [http] [HttpDownloaderImpl_0x7f429c0285e0] Start http downloader http://sa.openmedia.co:8018/collect?v=1&tid=UA-22764310-2&cid=3b6c5cfe-425c-417d-9db3-d3d0f43c7e0a&t=event&an=4K%20Video%20Downloader&av=4.16.0.4250&ec=Application&ea=LogicalDPI&el=96&z=-52671
+12:29:08.435964 -0300 (0x00007f42cc958640) [info] [http] [HttpDownloaderImpl_0x7f42b0004c10] Start http downloader https://dl.4kdownload.com/app/gamification/videodownloader.xml
+12:29:08.435983 -0300 (0x00007f429bfff640) [info] [http] [HttpDownloaderImpl_0x7f42900010a0] Start http downloader https://dl.4kdownload.com/app/advertisement/videodownloader.xml
+12:29:08.436424 -0300 (0x00007f42de24fcc0) [info] [SoftwareUpdate] [Manager] appId=4kvideodownloader, appName=4K Video Downloader, appVersion=4.16.0.4250, appCast=https://dl.4kdownload.com/app/appcast/videodownloader.xml
+12:29:08.437139 -0300 (0x00007f42d5513640) [info] [http] [HttpDownloaderImpl_0x7f429c034060] Start http downloader http://sa.openmedia.co:8018/collect?v=1&tid=UA-22764310-2&cid=3b6c5cfe-425c-417d-9db3-d3d0f43c7e0a&t=event&an=4K%20Video%20Downloader&av=4.16.0.4250&ec=License&ea=State&el=free&cprop=%7B%22license%22%3A%22free%22%7D&z=48603
+12:29:08.451157 -0300 (0x00007f42de24fcc0) [info] [downloader] [HttpDownloaderQueue_0x555b820dffa0] Set downloaders count: 3 -> 1
+12:29:08.451274 -0300 (0x00007f42de24fcc0) [info] [downloader] [HttpDownloaderQueue_0x555b820dffa0] Checking queue: state: Pending force: no size: 0
+12:29:08.451304 -0300 (0x00007f42de24fcc0) [info] [downloader] [HttpDownloaderQueue_0x555b820dffa0] Checking queue: state: Initial force: no size: 0
+12:29:08.451409 -0300 (0x00007f42de24fcc0) [info] [http] [HttpDownloaderImpl_0x555b825d7ea0] Start http downloader http://sa.openmedia.co:8018/getinfo
+12:29:08.455136 -0300 (0x00007f42de24fcc0) [info] Creating new io context pool '' with 1 thread(s)
+12:29:08.455384 -0300 (0x00007f42997fa640) [info] AsioContext::IoContext::threadFunc started
+12:29:08.455504 -0300 (0x00007f42997fa640) [info] There are not subscriptions. Iteration is not started
+12:29:08.490849 -0300 (0x00007f429bfff640) [debug] [http] [HttpDownloaderImpl_0x7f42900010a0] handleOpen system:0:Sucesso
+12:29:08.492270 -0300 (0x00007f42cc958640) [debug] [http] [HttpDownloaderImpl_0x7f42b0004c10] handleOpen system:0:Sucesso
+12:29:08.655889 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f429c0013b0] handleOpen system:0:Sucesso
+12:29:08.668760 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f429c01c460] handleOpen system:0:Sucesso
+12:29:08.677651 -0300 (0x00007f42de24fcc0) [info] Agreement not found
+12:29:08.680046 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f429c0285e0] handleOpen system:0:Sucesso
+12:29:08.688790 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f429c00f960] handleOpen system:0:Sucesso
+12:29:08.847193 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x555b825d7ea0] handleOpen system:0:Sucesso
+12:29:08.847627 -0300 (0x00007f42de249640) [info] User external ip info: {"ip":"179.108.4.208"}
+12:29:08.850259 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f429c034060] handleOpen system:0:Sucesso
+12:29:18.121122 -0300 (0x00007f42de24fcc0) [info] [SoftwareUpdate] [Manager] checking
+12:29:18.121391 -0300 (0x00007f42d5513640) [info] [http] [HttpDownloaderImpl_0x7f429c0013b0] Start http downloader https://dl.4kdownload.com/app/appcast/videodownloader.xml
+12:29:18.180082 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f429c0013b0] handleOpen system:0:Sucesso
+12:29:18.182214 -0300 (0x00007f42de24fcc0) [info] [SoftwareUpdate] [Manager] parsing
+12:29:18.183845 -0300 (0x00007f42de24fcc0) [info] [SoftwareUpdate] [Manager] no update available
+12:29:38.122117 -0300 (0x00007f42d5513640) [info] [http] [HttpDownloaderImpl_0x7f429c001350] Start http downloader https://dl.4kdownload.com/app/messages/videodownloader.xml
+12:29:38.615017 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f429c001350] handleOpen openmedia.http:403:Forbidden
+12:29:38.615326 -0300 (0x00007f42de24fcc0) [info] [Feedback] [MessageCenter] downloaded
+12:29:38.615385 -0300 (0x00007f42de24fcc0) [info] [Feedback] [MessageCenter] extracting messages
+12:29:38.615471 -0300 (0x00007f42de24fcc0) [info] [Feedback] [MessageCenter] extracted 0 messages
+12:30:08.435691 -0300 (0x00007f42de249640) [info] [http] [HttpDownloaderImpl_0x7f42940200d0] Start http downloader https://www.youtube.com
+12:30:08.585173 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleRedirect https://www.youtube.com -> https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2F
+12:30:08.738681 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleOpen system:0:Sucesso
+12:31:08.739947 -0300 (0x00007f42de249640) [info] [http] [HttpDownloaderImpl_0x7f42940200d0] Start http downloader https://www.youtube.com
+12:31:08.885582 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleRedirect https://www.youtube.com -> https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2F
+12:31:09.042903 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleOpen system:0:Sucesso
+12:31:25.838872 -0300 (0x00007f42d5513640) [info] [http] [HttpDownloaderImpl_0x7f429c001350] Start http downloader http://sa.openmedia.co:8018/collect?v=1&tid=UA-22764310-2&cid=3b6c5cfe-425c-417d-9db3-d3d0f43c7e0a&t=event&an=4K%20Video%20Downloader&av=4.16.0.4250&ec=License&ea=Show&el=Skipped&z=-21165
+12:31:26.282661 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f429c001350] handleOpen system:0:Sucesso
+12:32:09.044440 -0300 (0x00007f42de249640) [info] [http] [HttpDownloaderImpl_0x7f42940200d0] Start http downloader https://www.youtube.com
+12:32:09.197416 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleRedirect https://www.youtube.com -> https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2F
+12:32:09.360967 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleOpen system:0:Sucesso
+12:33:09.363091 -0300 (0x00007f42de249640) [info] [http] [HttpDownloaderImpl_0x7f42940200d0] Start http downloader https://www.youtube.com
+12:33:09.515951 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleRedirect https://www.youtube.com -> https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2F
+12:33:09.668574 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleOpen system:0:Sucesso
+12:34:08.455590 -0300 (0x00007f42997fa640) [info] There are not subscriptions. Iteration is not started
+12:34:09.670181 -0300 (0x00007f42de249640) [info] [http] [HttpDownloaderImpl_0x7f42940200d0] Start http downloader https://www.youtube.com
+12:34:09.813179 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleRedirect https://www.youtube.com -> https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2F
+12:34:09.965282 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleOpen system:0:Sucesso
+12:35:09.966668 -0300 (0x00007f42de249640) [info] [http] [HttpDownloaderImpl_0x7f42940200d0] Start http downloader https://www.youtube.com
+12:35:10.113799 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleRedirect https://www.youtube.com -> https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2F
+12:35:10.268869 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleOpen system:0:Sucesso
+12:36:10.270483 -0300 (0x00007f42de249640) [info] [http] [HttpDownloaderImpl_0x7f42940200d0] Start http downloader https://www.youtube.com
+12:36:10.411042 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleRedirect https://www.youtube.com -> https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2F
+12:36:10.580890 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleOpen system:0:Sucesso
+12:37:10.582911 -0300 (0x00007f42de249640) [info] [http] [HttpDownloaderImpl_0x7f42940200d0] Start http downloader https://www.youtube.com
+12:37:10.755898 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleRedirect https://www.youtube.com -> https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2F
+12:37:10.924922 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleOpen system:0:Sucesso
+12:38:10.926544 -0300 (0x00007f42de249640) [info] [http] [HttpDownloaderImpl_0x7f42940200d0] Start http downloader https://www.youtube.com
+12:38:11.070231 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleRedirect https://www.youtube.com -> https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2F
+12:38:11.228787 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleOpen system:0:Sucesso
+12:39:08.455717 -0300 (0x00007f42997fa640) [info] There are not subscriptions. Iteration is not started
+12:39:11.230153 -0300 (0x00007f42de249640) [info] [http] [HttpDownloaderImpl_0x7f42940200d0] Start http downloader https://www.youtube.com
+12:39:11.381873 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleRedirect https://www.youtube.com -> https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2F
+12:39:11.544998 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleOpen system:0:Sucesso
+12:40:11.546337 -0300 (0x00007f42de249640) [info] [http] [HttpDownloaderImpl_0x7f42940200d0] Start http downloader https://www.youtube.com
+12:40:11.695832 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleRedirect https://www.youtube.com -> https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2F
+12:40:11.850191 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleOpen system:0:Sucesso
+12:41:11.851519 -0300 (0x00007f42de249640) [info] [http] [HttpDownloaderImpl_0x7f42940200d0] Start http downloader https://www.youtube.com
+12:41:11.995742 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleRedirect https://www.youtube.com -> https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2F
+12:41:12.153798 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleOpen system:0:Sucesso
+12:42:12.155129 -0300 (0x00007f42de249640) [info] [http] [HttpDownloaderImpl_0x7f42940200d0] Start http downloader https://www.youtube.com
+12:42:12.295397 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleRedirect https://www.youtube.com -> https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2F
+12:42:12.451811 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleOpen system:0:Sucesso
+12:43:12.453150 -0300 (0x00007f42de249640) [info] [http] [HttpDownloaderImpl_0x7f42940200d0] Start http downloader https://www.youtube.com
+12:43:12.600661 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleRedirect https://www.youtube.com -> https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2F
+12:43:12.751777 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleOpen system:0:Sucesso
+12:44:08.455838 -0300 (0x00007f42997fa640) [info] There are not subscriptions. Iteration is not started
+12:44:12.753121 -0300 (0x00007f42de249640) [info] [http] [HttpDownloaderImpl_0x7f42940200d0] Start http downloader https://www.youtube.com
+12:44:12.906229 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleRedirect https://www.youtube.com -> https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2F
+12:44:13.064439 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleOpen system:0:Sucesso
+12:45:13.065761 -0300 (0x00007f42de249640) [info] [http] [HttpDownloaderImpl_0x7f42940200d0] Start http downloader https://www.youtube.com
+12:45:13.204685 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleRedirect https://www.youtube.com -> https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2F
+12:45:13.358451 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleOpen system:0:Sucesso
+12:46:13.359788 -0300 (0x00007f42de249640) [info] [http] [HttpDownloaderImpl_0x7f42940200d0] Start http downloader https://www.youtube.com
+12:46:13.503582 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleRedirect https://www.youtube.com -> https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2F
+12:46:13.656025 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleOpen system:0:Sucesso
+12:47:13.657339 -0300 (0x00007f42de249640) [info] [http] [HttpDownloaderImpl_0x7f42940200d0] Start http downloader https://www.youtube.com
+12:47:13.804619 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleRedirect https://www.youtube.com -> https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2F
+12:47:14.287073 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleOpen system:0:Sucesso
+12:48:14.288509 -0300 (0x00007f42de249640) [info] [http] [HttpDownloaderImpl_0x7f42940200d0] Start http downloader https://www.youtube.com
+12:48:14.755034 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleRedirect https://www.youtube.com -> https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2F
+12:48:14.909918 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleOpen system:0:Sucesso
+12:49:08.455953 -0300 (0x00007f42997fa640) [info] There are not subscriptions. Iteration is not started
+12:49:14.911291 -0300 (0x00007f42de249640) [info] [http] [HttpDownloaderImpl_0x7f42940200d0] Start http downloader https://www.youtube.com
+12:49:15.052759 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleRedirect https://www.youtube.com -> https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2F
+12:49:15.213214 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleOpen system:0:Sucesso
+12:50:15.214572 -0300 (0x00007f42de249640) [info] [http] [HttpDownloaderImpl_0x7f42940200d0] Start http downloader https://www.youtube.com
+12:50:15.355743 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleRedirect https://www.youtube.com -> https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2F
+12:50:15.505801 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleOpen system:0:Sucesso
+12:51:15.507145 -0300 (0x00007f42de249640) [info] [http] [HttpDownloaderImpl_0x7f42940200d0] Start http downloader https://www.youtube.com
+12:51:15.648153 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleRedirect https://www.youtube.com -> https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2F
+12:51:15.806377 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleOpen system:0:Sucesso
+12:52:15.807687 -0300 (0x00007f42de249640) [info] [http] [HttpDownloaderImpl_0x7f42940200d0] Start http downloader https://www.youtube.com
+12:52:15.951802 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleRedirect https://www.youtube.com -> https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2F
+12:52:16.116203 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleOpen system:0:Sucesso
+12:53:16.118005 -0300 (0x00007f42de249640) [info] [http] [HttpDownloaderImpl_0x7f42940200d0] Start http downloader https://www.youtube.com
+12:53:16.261086 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleRedirect https://www.youtube.com -> https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2F
+12:53:16.411954 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleOpen system:0:Sucesso
+12:54:08.456071 -0300 (0x00007f42997fa640) [info] There are not subscriptions. Iteration is not started
+12:54:16.413471 -0300 (0x00007f42de249640) [info] [http] [HttpDownloaderImpl_0x7f42940200d0] Start http downloader https://www.youtube.com
+12:54:17.263649 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleRedirect https://www.youtube.com -> https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2F
+12:54:17.419894 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleOpen system:0:Sucesso
+12:55:17.422493 -0300 (0x00007f42de249640) [info] [http] [HttpDownloaderImpl_0x7f42940200d0] Start http downloader https://www.youtube.com
+12:55:17.563478 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleRedirect https://www.youtube.com -> https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2F
+12:55:17.717691 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleOpen system:0:Sucesso
+12:56:17.720121 -0300 (0x00007f42de249640) [info] [http] [HttpDownloaderImpl_0x7f42940200d0] Start http downloader https://www.youtube.com
+12:56:17.865265 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleRedirect https://www.youtube.com -> https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2F
+12:56:18.022404 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleOpen system:0:Sucesso
+12:57:18.024210 -0300 (0x00007f42de249640) [info] [http] [HttpDownloaderImpl_0x7f42940200d0] Start http downloader https://www.youtube.com
+12:57:18.516995 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleRedirect https://www.youtube.com -> https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2F
+12:57:18.708352 -0300 (0x00007f42de249640) [debug] [http] [HttpDownloaderImpl_0x7f42940200d0] handleOpen system:0:Sucesso
+12:57:31.404797 -0300 (0x00007f42de24fcc0) [warning] QMainWindow::saveState(): 'objectName' not set for QToolBar 0x555b8271d080 '' (:0, )
+12:57:31.469810 -0300 (0x00007f42997fa640) [info] AsioContext::IoContext::threadFunc finished

@@ -1,0 +1,7 @@
+2021/09/23-09:38:23.909 6bd Reusing MANIFEST /home/vinicius/.config/chromium/Default/IndexedDB/https_www.linuxdescomplicado.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/23-09:38:23.909 6bd Recovering log #3
+2021/09/23-09:38:23.921 6bd Reusing old log /home/vinicius/.config/chromium/Default/IndexedDB/https_www.linuxdescomplicado.com.br_0.indexeddb.leveldb/000003.log 
+2021/09/23-09:38:34.286 721 Level-0 table #5: started
+2021/09/23-09:38:34.336 721 Level-0 table #5: 8165 bytes OK
+2021/09/23-09:38:34.450 721 Delete type=0 #3
+2021/09/23-09:38:34.450 721 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

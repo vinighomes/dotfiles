@@ -1,0 +1,6 @@
+2021/09/16-21:52:36.465 4469 Creating DB /home/vinicius/.config/chromium/Default/IndexedDB/https_www.snappea.com_0.indexeddb.leveldb since it was missing.
+2021/09/16-21:52:36.525 4469 Reusing MANIFEST /home/vinicius/.config/chromium/Default/IndexedDB/https_www.snappea.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/16-21:53:19.477 446a Level-0 table #5: started
+2021/09/16-21:53:19.572 446a Level-0 table #5: 3381 bytes OK
+2021/09/16-21:53:19.598 446a Delete type=0 #3
+2021/09/16-21:53:19.598 446a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

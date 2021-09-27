@@ -1,0 +1,5 @@
+
+xmonad.hs:128:99: error: parse error on input ‘]’
+    |
+128 | myWorkspaces = [" www ", " dev ", " sys ", " doc ", " win ", " chat ", " mus ", " vid ", " vbox ",]
+    |                                                                                                   ^

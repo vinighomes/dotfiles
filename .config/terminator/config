@@ -1,0 +1,32 @@
+[global_config]
+  title_transmit_fg_color = "#ff0000"
+  title_receive_fg_color = "#e01b24"
+  title_receive_bg_color = "#0d00ff"
+  title_inactive_bg_color = "#ed333b"
+  title_use_system_font = False
+  title_font = JetBrainsMono Nerd Font Medium 14
+[keybindings]
+  split_horiz = <Primary><Shift>b
+  split_vert = <Primary><Shift>d
+  next_tab = <Alt>Tab
+[profiles]
+  [[default]]
+    background_darkness = 0.67
+    background_type = transparent
+    cursor_shape = ibeam
+    cursor_color = "#aaaaaa"
+    font = JetBrainsMono Nerd Font Medium 14
+    foreground_color = "#cd0000"
+    show_titlebar = False
+    scrollbar_position = hidden
+    palette = "#000000:#aa0000:#cd0000:#0d00ff:#0000aa:#aa00aa:#55ffff:#0001ff:#555555:#0d00ff:#ff0000:#ff0000:#5555ff:#ff55ff:#003bff:#cd0000"
+    use_system_font = False
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+[plugins]

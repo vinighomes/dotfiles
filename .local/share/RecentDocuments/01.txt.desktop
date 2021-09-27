@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=text-plain
+Name=01.txt
+Type=Link
+URL[$e]=file:$HOME/01.txt
+X-KDE-LastOpenedWith=org.kde.kate

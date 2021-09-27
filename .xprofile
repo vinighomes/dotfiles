@@ -1,0 +1,14 @@
+# Wallpaper exit
+#wallset --quit &
+
+# Compositor
+picom -f &
+
+# Keyboard Layout
+setxkbmap br-abnt2 &
+
+# Wallpaper
+wallset --time 600 &
+
+
+
