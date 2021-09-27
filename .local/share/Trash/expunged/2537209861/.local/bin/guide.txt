@@ -1,1 +1,0 @@
-Copie todos os arquivos deste diretório para a pasta: "/usr/local/bin" como sudo.
