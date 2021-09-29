@@ -5,7 +5,8 @@ picom -f &
 setxkbmap br-abnt2 &
 
 # Wallpaper
-wallset --time 600 &
+#wallset --time 600 &
+wallset -u 047
 
 # Music
 mpd &
