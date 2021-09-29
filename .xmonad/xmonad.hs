@@ -116,7 +116,6 @@ myModMask       = mod4Mask
 myBrowser       = "chromium"
 myCalc          = "kcalc"
 myManager       = "nautilus"
-
 -- The default number of workspaces (virtual screens) and their names.
 -- By default we use numeric strings, but any string may be used as a
 -- workspace name. The number of workspaces is determined by the length
@@ -151,11 +150,12 @@ myKeys conf@(XConfig {XMonad.modMask = modm}) = M.fromList $
     , ((0, xF86XK_AudioMute), spawn "pactl set-sink-mute @DEFAULT_SINK@ toggle")
     , ((0, xF86XK_AudioLowerVolume), spawn "pactl set-sink-volume @DEFAULT_SINK@ -10%")
     , ((0, xF86XK_AudioRaiseVolume), spawn "pactl set-sink-volume @DEFAULT_SINK@ +10%")
-    , ((0, xF86XK_AudioPlay), spawn $ "ncmpcpp toggle")
-    , ((0, xF86XK_AudioNext), spawn $ "ncmpcpp next")
-    , ((0, xF86XK_AudioPrev), spawn $ "ncmpcpp prev")
-    , ((0, xF86XK_AudioStop), spawn $ "ncmpcpp stop")
+    , ((0, xF86XK_AudioPlay), spawn $ "mpc toggle")
+    , ((0, xF86XK_AudioNext), spawn $ "mpc prev")
+    , ((0, xF86XK_AudioPrev), spawn $ "mpc next")
+    , ((0, xF86XK_AudioStop), spawn $ "mpc stop")
     , ((controlMask .|. shiftMask , xK_u ), spawn $ "pavucontrol")
+    , ((modm .|. shiftMask, xK_m ), spawn $ "terminator -e ncmpcpp")
     -- Calculator
     , ((0, xF86XK_Calculator), spawn $ myCalc)
     --SCREENSHOTS

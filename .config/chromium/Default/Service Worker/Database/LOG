@@ -1,3 +1,6 @@
-2021/09/27-16:39:47.108 fbc03 Reusing MANIFEST /home/vinicius/.config/chromium/Default/Service Worker/Database/MANIFEST-000001
-2021/09/27-16:39:47.108 fbc03 Recovering log #3
-2021/09/27-16:39:47.124 fbc03 Reusing old log /home/vinicius/.config/chromium/Default/Service Worker/Database/000003.log 
+2021/09/29-13:24:01.524 626 Reusing MANIFEST /home/vinicius/.config/chromium/Default/Service Worker/Database/MANIFEST-000001
+2021/09/29-13:24:01.524 626 Recovering log #3
+2021/09/29-13:24:03.276 626 Reusing old log /home/vinicius/.config/chromium/Default/Service Worker/Database/000003.log 
+2021/09/29-13:24:33.735 621 Level-0 table #5: started
+2021/09/29-13:24:33.785 621 Level-0 table #5: 70212 bytes OK
+2021/09/29-13:24:33.861 621 Delete type=0 #3

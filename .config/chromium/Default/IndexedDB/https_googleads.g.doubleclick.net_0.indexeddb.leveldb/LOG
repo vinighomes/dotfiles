@@ -1,2 +1,7 @@
-2021/09/20-15:23:01.114 293 Creating DB /home/vinicius/.config/chromium/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb since it was missing.
-2021/09/20-15:23:01.167 293 Reusing MANIFEST /home/vinicius/.config/chromium/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/28-13:39:37.969 16daf Reusing MANIFEST /home/vinicius/.config/chromium/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/28-13:39:37.969 16daf Recovering log #3
+2021/09/28-13:39:37.973 16daf Reusing old log /home/vinicius/.config/chromium/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/000003.log 
+2021/09/28-13:39:43.108 16b48 Level-0 table #5: started
+2021/09/28-13:39:43.125 16b48 Level-0 table #5: 405 bytes OK
+2021/09/28-13:39:43.154 16b48 Delete type=0 #3
+2021/09/28-13:39:43.175 16b48 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

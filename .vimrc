@@ -23,7 +23,7 @@ call plug#end()
 " TEMA DE CORES
 "colorscheme koehler
 colorscheme dracula
-
+set background=dark
 " CONFIGS RECOMENDADAS
 set nu!
 set mouse=a
@@ -57,7 +57,8 @@ let g:UltiSnipsJumpForwardTrigger = "<tab>"
 let g:UltiSnipsJumpBackwardTrigger = "<s-tab>"
 
 " VIM AIRLINE
-let g:airline_theme = 'solarized'
+"let g:airline_theme = 'solarized'
+let g:airline_theme = 'dracula'
 " powerline symbols
 let g:airline_left_sep = ''
 let g:airline_left_alt_sep = ''

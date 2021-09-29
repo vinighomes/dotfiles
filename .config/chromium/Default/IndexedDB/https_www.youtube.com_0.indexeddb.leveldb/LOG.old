@@ -1,3 +1,3 @@
-2021/09/27-16:38:15.051 fa024 Reusing MANIFEST /home/vinicius/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/09/27-16:38:15.051 fa024 Recovering log #163
-2021/09/27-16:38:15.181 fa024 Reusing old log /home/vinicius/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000163.log 
+2021/09/29-13:19:08.290 2bda Reusing MANIFEST /home/vinicius/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/29-13:19:08.291 2bda Recovering log #205
+2021/09/29-13:19:08.674 2bda Reusing old log /home/vinicius/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000205.log 

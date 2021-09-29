@@ -1,3 +1,6 @@
-2021/09/27-16:39:47.129 5 Reusing MANIFEST /home/vinicius/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
-2021/09/27-16:39:47.183 5 Recovering log #223
-2021/09/27-16:39:47.185 5 Reusing old log /home/vinicius/.config/chromium/Default/Local Storage/leveldb/000223.log 
+2021/09/29-13:23:56.910 3 Reusing MANIFEST /home/vinicius/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2021/09/29-13:23:57.118 3 Recovering log #252
+2021/09/29-13:23:57.197 3 Reusing old log /home/vinicius/.config/chromium/Default/Local Storage/leveldb/000252.log 
+2021/09/29-13:24:27.430 3 Level-0 table #256: started
+2021/09/29-13:24:27.534 3 Level-0 table #256: 95124 bytes OK
+2021/09/29-13:24:27.625 3 Delete type=0 #252

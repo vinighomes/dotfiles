@@ -34,9 +34,8 @@ Config { font = "xft:Ubuntu:weight=bold:pixelsize=14:antialias=true:hinting=true
                     , Run Memory ["-t", "<fn=2>\xf538</fn>  Mem: <usedratio>%"] 10
                     , Run Swap [] 10
                     , Run Date "<fc=#1919e6></fc>%H:%M<fn=2>\xf017</fn>" "data" 10
-                    , Run MPD ["-t",
-             " <title> [<flags>]",
-             "--", "-P", ">>", "-Z", "|", "-S", "><"] 20
+                    , Run MPD ["-t","/<title><track>","--", "-P","", "-Z", "|", "-S", ""] 10
+                    --, Run MPD ["-t"," <title> [<flags>]","--", "-P", ">>", "-Z", "|", "-S", "><"] 10
                     -- Alguns ícones
                     , Run Com "echo" ["<fn=2>\xf011</fn>"] "botao" 3600
                     , Run Com "echo" ["<fn=2>\xf1ec</fn>"] "calculator" 3600
