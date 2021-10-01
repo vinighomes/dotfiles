@@ -160,10 +160,7 @@ myKeys conf@(XConfig {XMonad.modMask = modm}) = M.fromList $
     -- Calculator
     , ((0, xF86XK_Calculator), spawn $ myCalc)
     -- Editor text 
-    --nvim
     , ((modm, xK_e ), spawn $ "terminator -e nvim")
-    --vim 
-    , ((modm, xK_v ), spawn $ "terminator -e vim")
     --SCREENSHOTS
     , ((0, xK_Print), spawn $ "~/.config/rofi/bin/menu_screenshot ") 
     --scrot vinighomes-screenshot$wx$h.jpg -e mv $f $$(xdg-user-dir PICTURES)
