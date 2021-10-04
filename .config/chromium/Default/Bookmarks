@@ -1,5 +1,5 @@
 {
-   "checksum": "6a6ba60fa3a07e2836fc293928e2bcf6",
+   "checksum": "6b0fe32e0392366f009d0180daf95fdc",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -59,13 +59,6 @@
             "type": "url",
             "url": "https://xmobar.org/#unsafestdinreader"
          }, {
-            "date_added": "13276807505985046",
-            "guid": "bb847c67-424b-4c8a-8950-7773893b1802",
-            "id": "18",
-            "name": "Cheatsheet | Font Awesome",
-            "type": "url",
-            "url": "https://fontawesome.com/v5/cheatsheet/free/brands"
-         }, {
             "date_added": "13276910710715196",
             "guid": "d3cb7974-f3a1-4fba-bba2-bb7ca8242a16",
             "id": "20",
@@ -94,15 +87,22 @@
             "type": "url",
             "url": "https://www.wallpaperflare.com/"
          }, {
-            "date_added": "13277230009067115",
-            "guid": "47027857-df37-4b82-bb2d-cf7592965eb1",
-            "id": "29",
+            "date_added": "13277412866871995",
+            "guid": "af5b9b23-74c7-4e47-91a6-3e189a8bf26c",
+            "id": "31",
+            "name": "ncmpcpp cheat sheet",
+            "type": "url",
+            "url": "https://pkgbuild.com/~jelle/ncmpcpp/"
+         }, {
+            "date_added": "13277414903994107",
+            "guid": "197d7440-8250-44fb-a15b-3a1043a108c2",
+            "id": "32",
             "name": "XMonad/xmobar dotfiles",
             "type": "url",
             "url": "https://gist.github.com/mrak/f6395ea134e3efd387a0"
          } ],
          "date_added": "13276213370710475",
-         "date_modified": "13277265707673195",
+         "date_modified": "13277414903994107",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Barra de favoritos",

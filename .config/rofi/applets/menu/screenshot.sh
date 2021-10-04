@@ -27,21 +27,21 @@ chosen="$(echo -e "$options" | $rofi_command -p 'App : scrot' -dmenu -selected-r
 case $chosen in
     $screen)
 		if [[ -f /usr/bin/scrot ]]; then
-			sleep 1; scrot 'vinighomes-%d-%m-%Y-%s_screenshot_$wx$h.jpg' -e 'mv $f $$(xdg-user-dir PICTURES) ; viewnior $$(xdg-user-dir PICTURES)/$f'
+			sleep 1; scrot 'vinighomes-%d-%m-%Y-%S_screenshot_$wx$h.jpg' -e 'mv $f $$(xdg-user-dir PICTURES) ; viewnior $$(xdg-user-dir PICTURES)/$f'
 		else
 			msg
 		fi
-        ;;
+                ;;
     $area)
 		if [[ -f /usr/bin/scrot ]]; then
-			scrot -s 'vinighomes-%d-%m-%Y-%s_screenshot_$wx$h.jpg' -e 'mv $f $$(xdg-user-dir PICTURES) ; viewnior $$(xdg-user-dir PICTURES)/$f'
+			scrot -s 'vinighomes-%d-%m-%Y-%S_screenshot_$wx$h.jpg' -e 'mv $f $$(xdg-user-dir PICTURES) ; viewnior $$(xdg-user-dir PICTURES)/$f'
 		else
 			msg
 		fi
         ;;
     $window)
 		if [[ -f /usr/bin/scrot ]]; then
-			sleep 1; scrot -u 'vinighomes-%d-%m-%Y-%s_screenshot_$wx$h.jpg' -e 'mv $f $$(xdg-user-dir PICTURES) ; viewnior $$(xdg-user-dir PICTURES)/$f'
+			sleep 1; scrot -u 'vinighomes-%d-%m-%Y-%S_screenshot_$wx$h.jpg' -e 'mv $f $$(xdg-user-dir PICTURES) ; viewnior $$(xdg-user-dir PICTURES)/$f'
 		else
 			msg
 		fi
