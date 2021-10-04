@@ -11,7 +11,7 @@ dir="$HOME/.config/rofi/applets/applets/configs/$style"
 rofi_command="rofi -theme $dir/volume.rasi"
 
 ## Get Volume
-#VOLUME=$(amixer get Master | tail -n 1 | awk -F ' ' '{print $5}' | tr -d '[]%')
+VOLUME=$(amixer get Master | tail -n 1 | awk -F ' ' '{print $5}' | tr -d '[]%')
 MUTE=$(amixer get Master | tail -n 1 | awk -F ' ' '{print $6}' | tr -d '[]%')
 
 active=""
@@ -46,13 +46,13 @@ options="$ICON_UP\n$ICON_MUTED\n$ICON_DOWN"
 chosen="$(echo -e "$options" | $rofi_command -p "$VOLUME" -dmenu $active $urgent -selected-row 0)"
 case $chosen in
     $ICON_UP)
-        amixer -Mq set Master,0 5%+ unmute && notify-send -u low -t 1500 "Volume Up $ICON_UP"
+        pactl set-sink-volume @DEFAULT_SINK@ +10% && notify-send -u low -t 1500 "Volume Up $ICON_UP"
         ;;
     $ICON_DOWN)
-        amixer -Mq set Master,0 5%- unmute && notify-send -u low -t 1500 "Volume Down $ICON_DOWN"
+        pactl set-sink-volume @DEFAULT_SINK@ -10% && notify-send -u low -t 1500 "Volume Down $ICON_DOWN"
         ;;
     $ICON_MUTED)
-        amixer -q set Master toggle
+        pactl set-sink-mute @DEFAULT_SINK@ toggle
         ;;
 esac
 

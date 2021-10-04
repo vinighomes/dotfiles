@@ -26,7 +26,7 @@ window {
     border-radius:                  12px;
     location:                       northwest;
 	width:							500px;
-    x-offset:                       330px;
+    x-offset:                       365px;
     y-offset:                       25px;
 }
 

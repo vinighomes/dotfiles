@@ -114,9 +114,8 @@ myBorderWidth   = 1
 -- "windows key" is usually mod4Mask.
 --
 myModMask       = mod4Mask
-myBrowser       = "chromium"
+--myBrowser       = "chromium"
 myCalc          = "kcalc"
-myManager       = "nautilus"
 -- The default number of workspaces (virtual screens) and their names.
 -- By default we use numeric strings, but any string may be used as a
 -- workspace name. The number of workspaces is determined by the length
@@ -147,7 +146,8 @@ myKeys conf@(XConfig {XMonad.modMask = modm}) = M.fromList $
     --, ((controlMask .|. shiftMask , xK_s ), spawn $ "wallset --quit") --para o script
     --, ((controlMask .|. shiftMask , xK_f ), spawn $ "wallset --time 360") -- inicia (format slide) 
     --, ((controlMask .|. shiftMask , xK_g ), spawn $ "wallset -u 002")
-    -- volume keys
+   
+   -- volume keys
     , ((0, xF86XK_AudioMute), spawn "pactl set-sink-mute @DEFAULT_SINK@ toggle")
     , ((0, xF86XK_AudioLowerVolume), spawn "pactl set-sink-volume @DEFAULT_SINK@ -10%")
     , ((0, xF86XK_AudioRaiseVolume), spawn "pactl set-sink-volume @DEFAULT_SINK@ +10%")
@@ -156,19 +156,23 @@ myKeys conf@(XConfig {XMonad.modMask = modm}) = M.fromList $
     , ((0, xF86XK_AudioPrev), spawn $ "mpc next")
     , ((0, xF86XK_AudioStop), spawn $ "mpc stop")
     , ((controlMask .|. shiftMask , xK_u ), spawn $ "pavucontrol")
-    , ((modm .|. shiftMask, xK_m ), spawn $ "terminator -e ncmpcpp")
+     --, ((modm .|. shiftMask, xK_m ), spawn $ "terminator -e ncmpcpp")
+   
     -- Calculator
     , ((0, xF86XK_Calculator), spawn $ myCalc)
-    -- Editor text 
-    --nvim
-    , ((modm, xK_e ), spawn $ "terminator -e nvim")
-    --vim 
-    , ((modm, xK_v ), spawn $ "terminator -e vim")
+    
+    -- Managers 
+    --Manager1
+    , ((modm, xK_e ), spawn $ "~/.config/rofi/bin/menu_apps")
+    --Manager2
+    , ((modm, xK_v ), spawn $ "~/.config/rofi/applets/menu/apps2.sh")
+    
     --SCREENSHOTS
     , ((0, xK_Print), spawn $ "~/.config/rofi/bin/menu_screenshot ") 
     --scrot vinighomes-screenshot$wx$h.jpg -e mv $f $$(xdg-user-dir PICTURES)
     --fechar janela clicando com o mouse
     --, ((modm, xK_Escape), spawn $ "xkill" )
+    
     -- lockscreen
     , ((modm .|. shiftMask, xK_l ), spawn "dm-tool switch-to-greeter")
 
@@ -176,7 +180,7 @@ myKeys conf@(XConfig {XMonad.modMask = modm}) = M.fromList $
     , ((modm,               xK_p     ), spawn "~/.config/rofi/bin/launcher_colorful")
      
     -- launch chromium
-    , ((modm,               xK_g     ), spawn myBrowser)
+    --, ((modm,               xK_g     ), spawn myBrowser)
 
     -- launch dmenu
     , ((modm .|. shiftMask, xK_p     ), spawn "dmenu_run -i -nb '#070081' -nf '#ff0000' -sb '#ff0000' -sf '#070081' -fn 'HackRegular:bold:pixelsize=14'")
@@ -194,7 +198,7 @@ myKeys conf@(XConfig {XMonad.modMask = modm}) = M.fromList $
     , ((modm .|. shiftMask, xK_n ), refresh)
     
     -- Abre o explorador de arquivos
-    , ((modm,               xK_n ), spawn myManager) 
+    --, ((modm,               xK_n ), spawn myManager) 
     -- Move focus to the next window
     --, ((modm,               xK_Tab   ), windows W.focusDown)
     --Focus selected desktop

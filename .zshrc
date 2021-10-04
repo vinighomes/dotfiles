@@ -365,6 +365,9 @@ alias xmonadconfig="nvim ~/.xmonad/xmonad.hs"
 alias rm=trash
 alias walldown="wallset --quit"
 alias wallup="wallset --time 360"
+alias q="exit"
+alias ls-a="ls -a"
+alias xmobcfg="nvim ~/.xmobarrc"
 
 $HOME/.local/share/pacman.sh
 PATH="${PATH}:$HOME/.local/bin/"

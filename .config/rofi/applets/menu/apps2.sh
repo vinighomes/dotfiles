@@ -13,7 +13,7 @@ rofi_command="rofi -theme $dir/apps.rasi"
 # Links
 terminal=""
 files=""
-editor=""
+editor=""
 browser=""
 #browser=""
 music=""
@@ -57,7 +57,7 @@ case $chosen in
         ;;
     $editor)
 		if [[ -f /usr/bin/terminator ]]; then
-			terminator -e nvim &
+			terminator -e vim &
 		elif [[ -f /usr/bin/leafpad ]]; then
 			leafpad &
 		elif [[ -f /usr/bin/mousepad ]]; then

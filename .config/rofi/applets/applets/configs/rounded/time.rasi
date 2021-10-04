@@ -25,9 +25,9 @@ window {
     transparency:                   "real";
     border-radius:                  12px;
     location:                       northeast;
-	width:							450px;
-    x-offset:                       -45px;
-    y-offset:                       20px;
+	width:							425px;
+    x-offset:                       -35px;
+    y-offset:                       22px;
 }
 
 prompt {
