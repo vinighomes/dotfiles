@@ -1,0 +1,14 @@
+[Colors]
+BackColor=0,0,0
+ConstantsButtonsColor=170,0,0
+ForeColor=255,0,0
+FunctionButtonsColor=170,0,0
+HexButtonsColor=170,0,0
+MemoryButtonsColor=170,0,0
+NumberButtonsColor=170,0,0
+OperationButtonsColor=170,0,0
+StatButtonsColor=170,0,0
+
+[Font]
+ButtonFont=Hack Nerd Font,14,-1,5,50,0,0,0,0,0
+DisplayFont=Hack Nerd Font,16,-1,5,50,0,0,0,0,0

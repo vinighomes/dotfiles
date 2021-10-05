@@ -1,0 +1,6 @@
+2021/09/29-16:57:23.584 bdb1c Creating DB /home/vinicius/.config/chromium/Default/IndexedDB/https_audiomack.com_0.indexeddb.leveldb since it was missing.
+2021/09/29-16:57:23.689 bdb1c Reusing MANIFEST /home/vinicius/.config/chromium/Default/IndexedDB/https_audiomack.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/29-16:57:26.216 be5c6 Level-0 table #5: started
+2021/09/29-16:57:26.283 be5c6 Level-0 table #5: 621 bytes OK
+2021/09/29-16:57:26.436 be5c6 Delete type=0 #3
+2021/09/29-16:57:26.439 bdb1c Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,12 @@
+2021/10/05-13:14:17.042 dae9 Reusing MANIFEST /home/vinicius/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/05-13:14:17.157 dae9 Recovering log #245
+2021/10/05-13:14:17.780 dae9 Reusing old log /home/vinicius/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000245.log 
+2021/10/05-14:44:23.743 58e1a Level-0 table #250: started
+2021/10/05-14:44:23.999 58e1a Level-0 table #250: 1192230 bytes OK
+2021/10/05-14:44:24.116 58e1a Delete type=0 #245
+2021/10/05-14:46:12.927 56c19 Compacting 1@1 + 1@2 files
+2021/10/05-14:46:13.132 56c19 Generated table #251@1: 347 keys, 31989 bytes
+2021/10/05-14:46:13.132 56c19 Compacted 1@1 + 1@2 files => 31989 bytes
+2021/10/05-14:46:13.203 56c19 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/10/05-14:46:13.204 56c19 Delete type=2 #247
+2021/10/05-14:46:13.204 56c19 Delete type=2 #250

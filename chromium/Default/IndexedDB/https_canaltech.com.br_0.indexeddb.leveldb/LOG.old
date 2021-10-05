@@ -1,0 +1,6 @@
+2021/09/20-21:09:12.572 59a4 Creating DB /home/vinicius/.config/chromium/Default/IndexedDB/https_canaltech.com.br_0.indexeddb.leveldb since it was missing.
+2021/09/20-21:09:12.743 59a4 Reusing MANIFEST /home/vinicius/.config/chromium/Default/IndexedDB/https_canaltech.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/20-21:09:24.392 5f32 Level-0 table #5: started
+2021/09/20-21:09:24.542 5f32 Level-0 table #5: 5477 bytes OK
+2021/09/20-21:09:24.778 5f32 Delete type=0 #3
+2021/09/20-21:09:24.778 5f32 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

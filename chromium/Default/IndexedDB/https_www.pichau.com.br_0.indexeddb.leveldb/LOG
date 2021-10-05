@@ -1,0 +1,6 @@
+2021/10/05-14:06:54.950 39f0d Creating DB /home/vinicius/.config/chromium/Default/IndexedDB/https_www.pichau.com.br_0.indexeddb.leveldb since it was missing.
+2021/10/05-14:06:55.019 39f0d Reusing MANIFEST /home/vinicius/.config/chromium/Default/IndexedDB/https_www.pichau.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/05-14:07:00.373 39f0d Level-0 table #5: started
+2021/10/05-14:07:00.411 39f0d Level-0 table #5: 5089 bytes OK
+2021/10/05-14:07:00.434 39f0d Delete type=0 #3
+2021/10/05-14:07:00.435 39f0d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
