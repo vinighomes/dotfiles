@@ -126,7 +126,7 @@ myCalc          = "kcalc"
 -- > workspaces = ["web", "irc", "code" ] ++ map show [4..9]
 --
 --myWorkspaces    = ["1","2","3","4","5","6","7","8","9"]
-myWorkspaces = [" www ", " dev ", " sys ", " doc ", " win ", " chat ", " mus ", " vid ", " vbox "]
+myWorkspaces = [" www ", " dev ", " sys ", " doc ", " win ", " chat ", " mus ", " vid ", " kvm "]
 --myWorkspaces = ["\61612","\61899","\61947","\61635","\61502","\61501","\61705","\61564","\62150","\61872"]
 
 
@@ -149,14 +149,14 @@ myKeys conf@(XConfig {XMonad.modMask = modm}) = M.fromList $
    
    -- volume keys
     , ((0, xF86XK_AudioMute), spawn "pactl set-sink-mute @DEFAULT_SINK@ toggle")
-    , ((0, xF86XK_AudioLowerVolume), spawn "pactl set-sink-volume @DEFAULT_SINK@ -10%")
-    , ((0, xF86XK_AudioRaiseVolume), spawn "pactl set-sink-volume @DEFAULT_SINK@ +10%")
+    , ((0, xF86XK_AudioLowerVolume), spawn "pactl set-sink-volume @DEFAULT_SINK@ -5%")
+    , ((0, xF86XK_AudioRaiseVolume), spawn "pactl set-sink-volume @DEFAULT_SINK@ +5%")
     , ((0, xF86XK_AudioPlay), spawn $ "mpc toggle")
     , ((0, xF86XK_AudioNext), spawn $ "mpc prev")
     , ((0, xF86XK_AudioPrev), spawn $ "mpc next")
     , ((0, xF86XK_AudioStop), spawn $ "mpc stop")
-    , ((controlMask .|. shiftMask , xK_u ), spawn $ "pavucontrol")
-     --, ((modm .|. shiftMask, xK_m ), spawn $ "terminator -e ncmpcpp")
+    --, ((controlMask .|. shiftMask , xK_u ), spawn $ "pavucontrol")
+    --, ((modm .|. shiftMask, xK_m ), spawn $ "terminator -e ncmpcpp")
    
     -- Calculator
     , ((0, xF86XK_Calculator), spawn $ myCalc)
