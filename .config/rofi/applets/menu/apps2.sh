@@ -12,7 +12,7 @@ rofi_command="rofi -theme $dir/apps.rasi"
 
 # Links
 terminal=""
-files=""
+virt=""
 editor=""
 browser=""
 #browser=""
@@ -25,7 +25,7 @@ msg() {
 }
 
 # Variable passed to rofi
-options="$terminal\n$files\n$editor\n$browser\n$music\n$settings"
+options="$terminal\n$virt\n$editor\n$browser\n$music\n$settings"
 
 chosen="$(echo -e "$options" | $rofi_command -p "Most Used" -dmenu -selected-row 0)"
 case $chosen in
@@ -46,11 +46,9 @@ case $chosen in
 			msg "No suitable terminal found!"
 		fi
         ;;
-    $files)
-		if [[ -f /usr/bin/nautilus ]]; then
-			nautilus &
-		elif [[ -f /usr/bin/pcmanfm ]]; then
-			pcmanfm &
+    $virt)
+		if [[ -f /usr/bin/virt-manager ]]; then
+			virt-manager &
 		else
 			msg "No suitable file manager found!"
 		fi
@@ -87,8 +85,8 @@ case $chosen in
 		fi
         ;;
     $settings)
-		if [[ -f /usr/bin/terminator ]]; then
-			terminator -e "nvim ~/.xmonad/xmonad.hs" &
+		if [[ -f /usr/bin/pavucontrol ]]; then
+			pavucontrol &
 		else
 			msg "No suitable settings manager found!"
 		fi

@@ -177,7 +177,7 @@ myKeys conf@(XConfig {XMonad.modMask = modm}) = M.fromList $
     , ((modm .|. shiftMask, xK_l ), spawn "dm-tool switch-to-greeter")
 
     -- launch rofi
-    , ((modm,               xK_p     ), spawn "~/.config/rofi/bin/launcher_colorful")
+    , ((modm,               xK_d     ), spawn "~/.config/rofi/bin/launcher_colorful")
      
     -- launch chromium
     --, ((modm,               xK_g     ), spawn myBrowser)

@@ -1,6 +1,0 @@
-2021/09/14-22:21:40.127 4e8b Creating DB /home/vinicius/.config/chromium/Default/IndexedDB/https_108b9eff22a42ff148a3acc40e8256dd.safeframe.googlesyndication.com_0.indexeddb.leveldb since it was missing.
-2021/09/14-22:21:40.350 4e8b Reusing MANIFEST /home/vinicius/.config/chromium/Default/IndexedDB/https_108b9eff22a42ff148a3acc40e8256dd.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/09/14-22:21:45.499 4e89 Level-0 table #5: started
-2021/09/14-22:21:45.565 4e89 Level-0 table #5: 480 bytes OK
-2021/09/14-22:21:45.591 4e89 Delete type=0 #3
-2021/09/14-22:21:45.592 4e89 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

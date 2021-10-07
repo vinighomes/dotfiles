@@ -1,6 +1,0 @@
-2021/09/27-22:00:48.158 c3382 Creating DB /home/vinicius/.config/chromium/Default/IndexedDB/https_respostas-br.com_0.indexeddb.leveldb since it was missing.
-2021/09/27-22:00:48.345 c3382 Reusing MANIFEST /home/vinicius/.config/chromium/Default/IndexedDB/https_respostas-br.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/09/27-22:01:01.717 c2baf Level-0 table #5: started
-2021/09/27-22:01:01.734 c2baf Level-0 table #5: 2712 bytes OK
-2021/09/27-22:01:01.760 c2baf Delete type=0 #3
-2021/09/27-22:01:01.760 c2baf Manual compaction at level-0 from (begin) .. (end); will stop at (end)

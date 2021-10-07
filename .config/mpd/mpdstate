@@ -1,9 +1,9 @@
-sw_volume: 54
+sw_volume: 64
 audio_device_state:1:pulse audio
 audio_device_state:1:FIFO
 state: play
-current: 48
-time: 119.998000
+current: 159
+time: 120.103000
 random: 0
 repeat: 0
 single: 0

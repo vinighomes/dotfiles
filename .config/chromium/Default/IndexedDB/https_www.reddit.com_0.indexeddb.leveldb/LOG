@@ -1,6 +1,0 @@
-2021/09/16-15:04:53.930 38d0 Creating DB /home/vinicius/.config/chromium/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb since it was missing.
-2021/09/16-15:04:54.064 38d0 Reusing MANIFEST /home/vinicius/.config/chromium/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/09/16-15:06:02.551 38d0 Level-0 table #5: started
-2021/09/16-15:06:02.568 38d0 Level-0 table #5: 1855 bytes OK
-2021/09/16-15:06:02.594 38d0 Delete type=0 #3
-2021/09/16-15:06:02.594 38d0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,6 +1,0 @@
-2021/09/27-15:54:53.976 cc0ff Creating DB /home/vinicius/.config/chromium/Default/IndexedDB/https_hackernoon.com_0.indexeddb.leveldb since it was missing.
-2021/09/27-15:54:54.752 cc0ff Reusing MANIFEST /home/vinicius/.config/chromium/Default/IndexedDB/https_hackernoon.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/09/27-15:55:26.272 c9f8a Level-0 table #5: started
-2021/09/27-15:55:27.181 c9f8a Level-0 table #5: 1151 bytes OK
-2021/09/27-15:55:27.336 c9f8a Delete type=0 #3
-2021/09/27-15:55:27.336 c9f8a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

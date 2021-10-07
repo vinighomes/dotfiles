@@ -1,6 +1,0 @@
-2021/09/20-10:54:58.421 30a3 Creating DB /home/vinicius/.config/chromium/Default/IndexedDB/https_blog.desdelinux.net_0.indexeddb.leveldb since it was missing.
-2021/09/20-10:54:58.535 30a3 Reusing MANIFEST /home/vinicius/.config/chromium/Default/IndexedDB/https_blog.desdelinux.net_0.indexeddb.leveldb/MANIFEST-000001
-2021/09/20-10:55:08.354 30a3 Level-0 table #5: started
-2021/09/20-10:55:08.370 30a3 Level-0 table #5: 5856 bytes OK
-2021/09/20-10:55:08.396 30a3 Delete type=0 #3
-2021/09/20-10:55:08.396 30a3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

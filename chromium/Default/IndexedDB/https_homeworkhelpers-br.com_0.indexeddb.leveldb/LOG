@@ -1,6 +1,0 @@
-2021/09/27-22:22:38.422 d5f88 Creating DB /home/vinicius/.config/chromium/Default/IndexedDB/https_homeworkhelpers-br.com_0.indexeddb.leveldb since it was missing.
-2021/09/27-22:22:38.572 d5f88 Reusing MANIFEST /home/vinicius/.config/chromium/Default/IndexedDB/https_homeworkhelpers-br.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/09/27-22:22:42.218 d5f89 Level-0 table #5: started
-2021/09/27-22:22:42.335 d5f89 Level-0 table #5: 827 bytes OK
-2021/09/27-22:22:42.482 d5f89 Delete type=0 #3
-2021/09/27-22:22:42.482 d5f89 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
